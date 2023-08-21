@@ -61,7 +61,7 @@ public class Testcase_StartNewDiscusion {
 		
 		objGeneralDiscussion =new GeneralDiscussion(driver);
 		
-		objGeneralDiscussion.Discusion("test32231","223");
+		objGeneralDiscussion.Discusion("hien123","223");
 		Reporter.log("discussion created successful");
 		objGeneralDiscussion = new GeneralDiscussion(driver);
 		
